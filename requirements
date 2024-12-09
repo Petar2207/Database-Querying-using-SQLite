@@ -1,0 +1,9 @@
+## Requirements
+
+To run this project locally, you will need the following Python libraries:
+
+- `pandas`: for data manipulation and CSV handling.
+- `sqlite3`: for SQLite database interaction.
+- `prettytable`: for pretty-printing SQL query results.
+- `ipython-sql`: to run SQL queries directly within Jupyter notebooks.
+
